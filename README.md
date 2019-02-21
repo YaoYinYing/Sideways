@@ -4,21 +4,21 @@ Learn something
 
 ----
 ## Programming
-[ ] Flask
-[ ] SciHub API
-[ ] TensorFlow
+- [ ] Flask
+- [ ] SciHub API
+- [ ] TensorFlow
 
 ## Web software
-[ ] Frp
+- [ ] Frp
 
 ## Biochemistry
-[ ] Rosetta
+- [ ] Rosetta
 
 ## Python
-[ ] decorator
-[ ] class
-[ ] exception
-[ ] logging
+- [ ] decorator
+- [ ] class
+- [ ] exception
+- [ ] logging
 
 
 
