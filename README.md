@@ -21,8 +21,8 @@ Learn something
 - [ ] logging
 
 ## Doctor Who
-- [-] S1
-- [ ] S2
+- [x] S1
+- [x] S2
 - [ ] S3
 - [ ] S4
 - [ ] S5
