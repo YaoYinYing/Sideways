@@ -7,6 +7,7 @@ Learn something
 - [ ] Flask
 - [ ] SciHub API
 - [ ] TensorFlow
+- [ ] JC Daily Editor 
 
 ## Web software
 - [ ] Frp
