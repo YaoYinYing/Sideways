@@ -8,6 +8,7 @@ Learn something
 - [ ] SciHub API
 - [ ] TensorFlow
 - [ ] JC Daily Editor 
+- [ ] LaTex typing
 
 ## Web software
 - [ ] Frp
@@ -24,8 +25,8 @@ Learn something
 ## Doctor Who
 - [x] S1
 - [x] S2
-- [ ] S3
-- [ ] S4
+- [X] S3
+- [X] S4
 - [ ] S5
 - [ ] S6
 - [ ] S7
