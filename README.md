@@ -31,8 +31,8 @@ Learn something
 - [X] S6
 - [X] S7
 - [X] S8
-- [ ] S9
-- [ ] S10
+- [X] S9
+- [X] S10
 - [ ] S11
 - [ ] S12
 
