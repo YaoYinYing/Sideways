@@ -3,12 +3,17 @@ Learn something
 
 
 ----
-## Programming
+## Programming Learning
 - [ ] Flask
-- [ ] SciHub API
 - [ ] TensorFlow
-- [ ] JC Daily Editor 
 - [ ] LaTex typing
+
+
+
+## Programming Projects
+- [ ] SciHub API: Link to Sci-hub and let's rock!
+- [ ] JC Daily Editor: An Editor for JC Daily Generation.
+- [ ] OhMyPDB: A tool for automatically latest PDB releases searching and alarming for researchers.
 
 ## Web software
 - [ ] Frp
@@ -35,8 +40,6 @@ Learn something
 - [X] S10
 - [ ] S11
 - [ ] S12
-
-
 
 
 
