@@ -15,6 +15,8 @@ Learn something
 - [ ] JC Daily Editor: An Editor for JC Daily Generation.
 - [ ] OhMyPDB: A tool for automatically latest PDB releases searching and alarming for researchers.
 - [ ] Yin Lab sync: A tool for latest software fetching.
+- [ ] HZAU Network testing and alerting tool.
+
 
 ## Web software
 - [ ] Frp
