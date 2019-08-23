@@ -14,6 +14,7 @@ Learn something
 - [ ] SciHub API: Link to Sci-hub and let's rock!
 - [ ] JC Daily Editor: An Editor for JC Daily Generation.
 - [ ] OhMyPDB: A tool for automatically latest PDB releases searching and alarming for researchers.
+- [ ] Yin Lab sync: A tool for latest software fetching.
 
 ## Web software
 - [ ] Frp
